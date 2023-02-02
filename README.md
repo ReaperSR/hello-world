@@ -1,2 +1,3 @@
-# hello-world
-A hello world script for a college class
+# About Me
+I am highly interested in computers and how they function. I have built a few from scratch. 
+I do not have much coding experience 
